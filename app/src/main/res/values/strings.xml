@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Crashlands Guide</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <color name="gray">#E4E4E4</color>
+    <color name="white">#FFFFFF</color>
+</resources>
